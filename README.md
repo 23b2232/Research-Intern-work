@@ -85,6 +85,3 @@ Detect exoplanets by identifying transit signals in light curve data.
 ## Author
 
 **Yashasvee Taiwade**
-
-* Mechanical Engineering Student
-* Research in Astrophysics + Machine Learning
