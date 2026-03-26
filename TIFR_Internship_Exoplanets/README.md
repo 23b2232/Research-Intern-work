@@ -31,9 +31,8 @@ Analyzed systems separately to find mass-dependent trends:
 * **F-type:** $> 6200\text{ K}$
 
 ## Sample Visualizations
-*(Tip: Save your plots in a folder named `plots` and link them here)*
-`![Radius Distribution Histogram](plots/radius_distribution.png)`
-`![Delta R vs Delta Log S](plots/M_type_scatter.png)`
+All the plots are available [here](plots)  
+![Radius Distribution Histogram](plots/planet_radii_distribution.png)
 
 ## Conclusion
 The results indicate a clear bimodal distribution across all spectral types. The $\Delta R / \Delta \log S$ metric shows varying sensitivities to stellar irradiation, suggesting that photoevaporation plays a dominant role in shaping the planetary systems of higher-temperature stars.
